@@ -1,0 +1,5 @@
+['SRRRR',
+ 'RDRDR',
+ 'DRRDR',
+ 'RRRRR',
+ 'RDRDE']

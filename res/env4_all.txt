@@ -1,0 +1,4 @@
+['SRRD',
+ 'RDRR',
+ 'RDDR',
+ 'RRRE']

@@ -1,0 +1,7 @@
+['SRRRRRR',
+ 'RRRRDRR',
+ 'RRRRRRR',
+ 'DRRRRDR',
+ 'RRRDRRR',
+ 'RRRDRRR',
+ 'RRRRRRE']
