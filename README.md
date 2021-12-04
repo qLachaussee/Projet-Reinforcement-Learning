@@ -1,2 +1,4 @@
-# Projet-Reinforcement-Learning
-Jeux de plateau (Q-learning)
+# Projet Reinforcement Learning
+## Quentin LACHAUSSEE PROMO 2
+### 14/01/2022
+
